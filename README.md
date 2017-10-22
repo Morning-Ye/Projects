@@ -75,7 +75,7 @@ The steps of this project that we will through are as follows.
 
 This will provide a template for working through a time series prediction problem that you can use on your own dataset.
 # -------------------------------------------------------------------
-## Related literatures:
+## Important literatures:
 ### 1. [Drugs store sales forecast using Machine Learning paper](http://cs229.stanford.edu/proj2015/191_report.pdf)
 ### 2. [Drugs store sales forecast using Machine Learning poster](http://cs229.stanford.edu/proj2015/191_poster.pdf)
 ### 3. [Revenue Forecasting for Enterprise Products](https://arxiv.org/pdf/1701.06624.pdf)
