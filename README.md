@@ -57,6 +57,20 @@ A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in r
 
 # -------------------------------------------------------------------
 ## [Time Series Forecast Study with Python: Monthly Sales of French Champagne](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
+In this tutorial, we will work through a time series forecasting project from end-to-end, from downloading the dataset and defining the problem to training a final model and making predictions.
+
+This project is not exhaustive, but shows how you can get good results quickly by working through a time series forecasting problem systematically.
+
+The steps of this project that we will through are as follows.
+
+Environment.
+Problem Description.
+Test Harness.
+Persistence.
+Data Analysis.
+ARIMA Models.
+Model Validation.
+This will provide a template for working through a time series prediction problem that you can use on your own dataset.
 # -------------------------------------------------------------------
 ## Related literatures:
 ### 1. [Drugs store sales forecast using Machine Learning paper](http://cs229.stanford.edu/proj2015/191_report.pdf)
