@@ -56,4 +56,12 @@ Wages in the public sector are paid every two weeks on the 15 th and on the last
 A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
 
 # -------------------------------------------------------------------
+## [Time Series Forecast Study with Python: Monthly Sales of French Champagne](https://machinelearningmastery.com/time-series-forecast-study-python-monthly-sales-french-champagne/)
+# -------------------------------------------------------------------
+## Related literatures:
+### 1. [Drugs store sales forecast using Machine Learning paper](http://cs229.stanford.edu/proj2015/191_report.pdf)
+### 2. [Drugs store sales forecast using Machine Learning poster](http://cs229.stanford.edu/proj2015/191_poster.pdf)
+### 3. [Revenue Forecasting for Enterprise Products](https://arxiv.org/pdf/1701.06624.pdf)
+### 4. 
+
 # =============================================
