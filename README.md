@@ -77,14 +77,9 @@ This will provide a template for working through a time series prediction proble
 # -------------------------------------------------------------------
 ## Important literatures:
 ### 1. Drugs store sales forecast using Machine Learning [paper](http://cs229.stanford.edu/proj2015/191_report.pdf) and [poster](http://cs229.stanford.edu/proj2015/191_poster.pdf)
-#### Conclusion and Prospective
-We use AR model to predict the sales with small discrepancy to the test data, and we use
-RF and SVR to find relations between store mean sales and other features. There are certainly
-rooms for improvements. We can make further predictions on daily sales using SVR. Even
-though we found the relations between the features, and make fairly good predictions on average
-sales for each store. We think next we could try to use SVR see how the parameters set in AR
-change according to features. By doing so, we could automate the process of making predictions
-on daily sales for all the stores in the time series model.
+* Conclusion and Prospective: We use AR model to predict the sales with small discrepancy to the test data, and we use
+RF and SVR to find relations between store mean sales and other features. There are certainly rooms for improvements. We can make further predictions on daily sales using SVR. Even though we found the relations between the features, and make fairly good predictions on average
+sales for each store. We think next we could try to use SVR see how the parameters set in AR change according to features. By doing so, we could automate the process of making predictions on daily sales for all the stores in the time series model.
 ### 2. [Revenue Forecasting for Enterprise Products](https://arxiv.org/pdf/1701.06624.pdf)
 ### 4. 
 
