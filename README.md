@@ -81,6 +81,8 @@ This will provide a template for working through a time series prediction proble
 RF and SVR to find relations between store mean sales and other features. There are certainly rooms for improvements. We can make further predictions on daily sales using SVR. Even though we found the relations between the features, and make fairly good predictions on average
 sales for each store. We think next we could try to use SVR see how the parameters set in AR change according to features. By doing so, we could automate the process of making predictions on daily sales for all the stores in the time series model.
 ### 2. [Revenue Forecasting for Enterprise Products](https://arxiv.org/pdf/1701.06624.pdf)
+* In this paper, we provide insights into the three different machine learning models that we developed using standard time series and       regression algorithms. In particular, we use ARIMA (Autoregressive integrated moving average), ETS (Exponential smoothing) , STL        (Seasonal and trend decomposition using Loess) , and Random forest machine learning algorithms to provide the revenue forecast as a
+guideline to be used by Microsoft Finance in their process of quarterly revenue forecast. 
 ### 4. 
 
 # =============================================
