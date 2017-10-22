@@ -63,13 +63,13 @@ This project is not exhaustive, but shows how you can get good results quickly b
 
 The steps of this project that we will through are as follows.
 
-Environment.
-Problem Description.
-Test Harness.
-Persistence.
-Data Analysis.
-ARIMA Models.
-Model Validation.
+* Environment.
+* Problem Description.
+* Test Harness.
+* Persistence.
+* Data Analysis.
+* ARIMA Models.
+* Model Validation.
 This will provide a template for working through a time series prediction problem that you can use on your own dataset.
 # -------------------------------------------------------------------
 ## Related literatures:
