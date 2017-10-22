@@ -4,6 +4,7 @@
 
 In this competition, you will be predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador. The training data includes dates, store and item information, whether that item was being promoted, as well as the unit sales. Additional files include supplementary information that may be useful in building your models.
 
+# ---------------------------------------------
 ## File Descriptions and Data Field Information
 
 ### train.csv
@@ -54,4 +55,5 @@ Additional Notes
 Wages in the public sector are paid every two weeks on the 15 th and on the last day of the month. Supermarket sales could be affected by this.
 A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
 
+# ---------------------------------------------
 # =============================================
