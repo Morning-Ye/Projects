@@ -94,7 +94,7 @@ The Long Short-Term Memory recurrent neural network has the promise of learning 
 
 * After completing this tutorial, you will know:
 
-** How to develop a baseline of performance for a forecast problem.
-** How to design a robust test harness for one-step time series forecasting.
-** How to prepare data, develop, and evaluate an LSTM recurrent neural network for time series forecasting.
+* How to develop a baseline of performance for a forecast problem.
+* How to design a robust test harness for one-step time series forecasting.
+* How to prepare data, develop, and evaluate an LSTM recurrent neural network for time series forecasting.
 # =============================================
