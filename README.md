@@ -90,14 +90,11 @@ guideline to be used by Microsoft Finance in their process of quarterly revenue 
 by Jason Brownlee on April 7, 2017 in Long Short-Term Memory Networks
 The Long Short-Term Memory recurrent neural network has the promise of learning long sequences of observations.
 
-It seems a perfect match for time series forecasting, and in fact, it may be.
+* In this tutorial, you will discover how to develop an LSTM forecast model for a one-step univariate time series forecasting problem.
 
-In this tutorial, you will discover how to develop an LSTM forecast model for a one-step univariate time series forecasting problem.
+* After completing this tutorial, you will know:
 
-After completing this tutorial, you will know:
-
-How to develop a baseline of performance for a forecast problem.
-How to design a robust test harness for one-step time series forecasting.
-How to prepare data, develop, and evaluate an LSTM recurrent neural network for time series forecasting.
-Let’s get started.
+** How to develop a baseline of performance for a forecast problem.
+** How to design a robust test harness for one-step time series forecasting.
+** How to prepare data, develop, and evaluate an LSTM recurrent neural network for time series forecasting.
 # =============================================
