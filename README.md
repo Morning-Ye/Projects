@@ -85,5 +85,19 @@ This will provide a template for working through a time series prediction proble
 * In this paper, we provide insights into the three different machine learning models that we developed using standard time series and       regression algorithms. In particular, we use ARIMA (Autoregressive integrated moving average), ETS (Exponential smoothing) , STL        (Seasonal and trend decomposition using Loess) , and Random forest machine learning algorithms to provide the revenue forecast as a
 guideline to be used by Microsoft Finance in their process of quarterly revenue forecast. 
 
+## 4. [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
+* Time Series Forecasting with the Long Short-Term Memory Network in Python
+by Jason Brownlee on April 7, 2017 in Long Short-Term Memory Networks
+The Long Short-Term Memory recurrent neural network has the promise of learning long sequences of observations.
 
+It seems a perfect match for time series forecasting, and in fact, it may be.
+
+In this tutorial, you will discover how to develop an LSTM forecast model for a one-step univariate time series forecasting problem.
+
+After completing this tutorial, you will know:
+
+How to develop a baseline of performance for a forecast problem.
+How to design a robust test harness for one-step time series forecasting.
+How to prepare data, develop, and evaluate an LSTM recurrent neural network for time series forecasting.
+Let’s get started.
 # =============================================
