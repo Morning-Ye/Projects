@@ -98,3 +98,8 @@ The Long Short-Term Memory recurrent neural network has the promise of learning 
 * How to design a robust test harness for one-step time series forecasting.
 * How to prepare data, develop, and evaluate an LSTM recurrent neural network for time series forecasting.
 # =============================================
+
+## others: [https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+[http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
+[https://github.com/lilianweng/stock-rnn](https://github.com/lilianweng/stock-rnn)
+
